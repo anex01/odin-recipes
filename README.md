@@ -1,2 +1,2 @@
-Build a basic website with HTML
-Consist of the main index page linked to other pages.
+Build a basic HTML website.
+Consists of the main index page linked to other pages.
